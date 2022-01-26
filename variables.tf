@@ -1,5 +1,5 @@
 /**
- * ec2 going bigger than ever
+ * ec2
  */
 
 variable "ami" {

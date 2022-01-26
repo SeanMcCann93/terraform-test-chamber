@@ -1,4 +1,4 @@
-# Terraform Module: ec2 going bigger than ever
+# Terraform Module: ec2
 
 **Home** |
 [Change Log](docs/ChangeLog.md)
@@ -138,4 +138,4 @@ This Terraform Module is calling the following for the resources to be deployed:
 [Return to Top](#)
 
 
-###### Copyright &copy; LTD 2022 - *Deployable* module: terraform-docs v0.16.0 | tfdocs V0.6.0 
+###### Copyright &copy; Test Chamber LTD 2022 - *Deployable* module: terraform-docs v0.16.0 | tfdocs V0.6.0 

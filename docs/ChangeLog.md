@@ -1,4 +1,4 @@
-# Terraform Module: ec2 going bigger than ever | Change Log
+# Terraform Module: ec2 | Change Log
 
 
 [Home](../ReadMe.md) |
@@ -23,4 +23,4 @@ Publisher: [.terraform-docs Automation](Contribute.md)
 [Return to Top](#)
 
 
-###### Copyright &copy; LTD 2022 - *Deployable* module: terraform-docs v0.16.0 | tfdocs V0.6.0 
+###### Copyright &copy; Test Chamber LTD 2022 - *Deployable* module: terraform-docs v0.16.0 | tfdocs V0.6.0 
